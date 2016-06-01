@@ -1,7 +1,7 @@
 fourDvel
 ========
 
-Routine for inferring 3d velocity field time series from geolocated displacement data
+Routine for inferring time-dependent, 3d velocity fields from geolocated displacement data
 
 requirements
 ------------
