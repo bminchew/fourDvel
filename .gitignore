@@ -1,0 +1,10 @@
+trial5.cmd
+offset_fields_offsets.bil.hdr
+singularity_test*
+fourDvel
+fourDvel_mmap
+test_cos2d.py
+dumm*
+synthfigs
+synthfigs/*
+syncfiles.sh
